@@ -82,7 +82,8 @@ body {
     counter-reset: h1-counter;
     width: calc(100% - 320px);
     position: absolute;
-    right: 0
+    right: 0;
+    margin-top:55px;
 }
 
 @media screen and (max-width: 1000px) {
@@ -157,16 +158,16 @@ h1:before {
 .h1 {
     counter-increment: h1-counter;
     counter-reset: h2-counter;
-    padding-top: 80px
+    padding-top: 80px;
 }
 
 h2 {
     font-size: 1.8em;
     padding: 30px 0 0;
     width: 90%;
-    text-align: center;
     border-bottom: 5px solid #F7F7F7;
     margin: 0 auto 20px;
+    margin-top:100px;
     line-height: 0.63
 }
 
