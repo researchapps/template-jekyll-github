@@ -1,6 +1,6 @@
 full_rebuild: true
-name: Stanford Application Templates
-author: Stanford Research Computing
+name: Application Documentation Template
+author: Research Applications
 version: V 1.0
 encoding: utf-8
 defaults:
